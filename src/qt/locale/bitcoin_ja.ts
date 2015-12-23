@@ -1672,8 +1672,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 HICOIN</source>
-        <translation>123.456 HICOIN {0.00 ?}</translation>
+        <source>0.00 XHI</source>
+        <translation>123.456 XHI {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 HICOIN</source>
-        <translation>123.456 HICOIN</translation>
+        <source>123.456 XHI</source>
+        <translation>123.456 XHI</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -2626,8 +2626,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or friendshipcoin2d</source>
-        <translation>-server か friendshipcoin2dへコマンドを送る。</translation>
+        <source>Send command to -server or hicoind</source>
+        <translation>-server か hicoindへコマンドを送る。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: friendshipcoin2.conf)</source>
-        <translation>設定ファイルを特定する (デファルト: friendshipcoin2.conf)</translation>
+        <source>Specify configuration file (default: hicoin.conf)</source>
+        <translation>設定ファイルを特定する (デファルト: hicoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: friendshipcoin2d.pid)</source>
-        <translation>pid ファイルを特定する (デフォルト: friendshipcoin2d.pid)</translation>
+        <source>Specify pid file (default: hicoind.pid)</source>
+        <translation>pid ファイルを特定する (デフォルト: hicoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2991,7 +2991,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3002,7 +3002,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.c
         <translation>%s, 設定ファイル：%sでrpcpasswordのパスワードを入力しなければならい
 
 このランダムパスワードのおすすめです：
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (このパサワードを覚えなくても大丈夫です)
 ユーザ名とパスワードは同じであってはなりません。

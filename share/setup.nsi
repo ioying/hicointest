@@ -10,7 +10,7 @@ SetCompressor /SOLID lzma
 !define URL http://www.friendshipcoins.com
 
 # MUI Symbol Definitions
-!define MUI_ICON "..\share\pixmaps\friendshipcoin2.ico"
+!define MUI_ICON "..\share\pixmaps\hicoin.ico"
 !define MUI_WELCOMEFINISHPAGE_BITMAP "..\share\pixmaps\nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
@@ -77,7 +77,7 @@ Section -Main SEC0000
 
     # Remove old wxwidgets-based-HiCoin executable and locales:
     Delete /REBOOTOK $INSTDIR\HiCoin.exe
-    Delete /REBOOTOK $INSTDIR\daemon\friendshipcoin2d.exe
+    Delete /REBOOTOK $INSTDIR\daemon\hicoind.exe
     RMDir /r /REBOOTOK $INSTDIR\daemon
     RMDir /r /REBOOTOK $INSTDIR\locale
 
@@ -87,7 +87,7 @@ Section -Main SEC0000
     File /oname=COPYING.txt ..\COPYING
     File /oname=readme.txt ..\doc\README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File ..\release\friendshipcoin2d.exe
+    File ..\release\hicoind.exe
     SetOutPath $INSTDIR\doc
     File /r ..\doc\*.*
     SetOutPath $INSTDIR
@@ -111,10 +111,10 @@ Section -post SEC0001
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" UninstallString $INSTDIR\uninstall.exe
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
-    WriteRegStr HKCR "friendshipcoin2" "URL Protocol" ""
-    WriteRegStr HKCR "friendshipcoin2" "" "URL:friendshipcoin2"
-    WriteRegStr HKCR "friendshipcoin2\DefaultIcon" "" $INSTDIR\HiCoin.exe
-    WriteRegStr HKCR "friendshipcoin2\shell\open\command" "" '"$INSTDIR\HiCoin.exe" "%1"'
+    WriteRegStr HKCR "hicoin" "URL Protocol" ""
+    WriteRegStr HKCR "hicoin" "" "URL:hicoin"
+    WriteRegStr HKCR "hicoin\DefaultIcon" "" $INSTDIR\HiCoin.exe
+    WriteRegStr HKCR "hicoin\shell\open\command" "" '"$INSTDIR\HiCoin.exe" "%1"'
 SectionEnd
 
 # Macro for selecting uninstaller sections

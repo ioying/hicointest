@@ -1664,8 +1664,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 HICOIN</source>
-        <translation>123.456 HICOIN {0.00 ?}</translation>
+        <source>0.00 XHI</source>
+        <translation>123.456 XHI {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1734,8 +1734,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 HICOIN</source>
-        <translation>123.456 HICOIN</translation>
+        <source>123.456 XHI</source>
+        <translation>123.456 XHI</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -2618,8 +2618,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or friendshipcoin2d</source>
-        <translation>Enviar comandes a -server o friendshipcoin2d</translation>
+        <source>Send command to -server or hicoind</source>
+        <translation>Enviar comandes a -server o hicoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2638,13 +2638,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: friendshipcoin2.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: friendshipcoin2.conf)</translation>
+        <source>Specify configuration file (default: hicoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: hicoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: friendshipcoin2d.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: friendshipcoin2d.pid)</translation>
+        <source>Specify pid file (default: hicoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: hicoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2983,7 +2983,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2994,7 +2994,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.c
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.

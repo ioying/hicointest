@@ -42,16 +42,16 @@ POS INTEREST: PoS (Proof-of-Stake) 10% yearly (from non-reserved wallet balance)
 
 ALGORITHM: Scrypt
 
-SYMBOL:    HICOIN
+SYMBOL:    XHI
 
 BLOCK TIME: 60 sec
 
 LAST POW BLOCK: 3600
 
-TOTAL MONEY SUPPLY: 20,000,000 HICOIN
-BLOCKS 1-12 (premine): each 500,000 HICOIN. (Premine also created for exchange HiCoin (ver. 1) to HiCoin (ver.2))
+TOTAL MONEY SUPPLY: 20,000,000 XHI
+BLOCKS 1-12 (premine): each 500,000 XHI. (Premine also created for exchange HiCoin (ver. 1) to HiCoin (ver.2))
 
-BLOCKS 13~3600: 100 HICOIN
+BLOCKS 13~3600: 100 XHI
 
 COIN POS AGE: Min. 1 hour / Max. unlimited
 

@@ -79,6 +79,6 @@ cp *.h miniupnpc/
 HiCoin
 -------
 DOS prompt:
-cd \friendshipcoin2\src
+cd \hicoin\src
 mingw32-make -f makefile.mingw
-strip friendshipcoin2d.exe
+strip hicoind.exe

@@ -86,7 +86,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // NovaCoin: check prefix
-    if(uri.scheme() != QString("friendshipcoin2"))
+    if(uri.scheme() != QString("hicoin"))
         return false;
 
     SendCoinsRecipient rv;
@@ -136,13 +136,13 @@ bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 
 bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 {
-    // Convert friendshipcoin2:// to friendshipcoin2:
+    // Convert hicoin:// to hicoin:
     //
     //    Cannot handle this later, because bitcoin:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("friendshipcoin2://"))
+    if(uri.startsWith("hicoin://"))
     {
-        uri.replace(0, 12, "friendshipcoin2:");
+        uri.replace(0, 12, "hicoin:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -376,7 +376,7 @@ boost::filesystem::path static GetAutostartDir()
 
 boost::filesystem::path static GetAutostartFilePath()
 {
-    return GetAutostartDir() / "friendshipcoin2.desktop";
+    return GetAutostartDir() / "hicoin.desktop";
 }
 
 bool GetStartOnSystemStartup()
@@ -441,7 +441,7 @@ HelpMessageBox::HelpMessageBox(QWidget *parent) :
     header = tr("HiCoin-Qt") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
-        "  friendshipcoin2-qt [" + tr("command-line options") + "]                     " + "\n";
+        "  hicoin-qt [" + tr("command-line options") + "]                     " + "\n";
 
     coreOptions = QString::fromStdString(HelpMessage());
 

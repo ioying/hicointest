@@ -1673,8 +1673,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 HICOIN</source>
-        <translation>123.456 HICOIN</translation>
+        <source>0.00 XHI</source>
+        <translation>123.456 XHI</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1743,8 +1743,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 HICOIN</source>
-        <translation>123.456 HICOIN</translation>
+        <source>123.456 XHI</source>
+        <translation>123.456 XHI</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -2627,8 +2627,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or friendshipcoin2d</source>
-        <translation>Verstuur commando naar -server of friendshipcoin2d</translation>
+        <source>Send command to -server or hicoind</source>
+        <translation>Verstuur commando naar -server of hicoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2647,13 +2647,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: friendshipcoin2.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: friendshipcoin2.conf)</translation>
+        <source>Specify configuration file (default: hicoin.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: hicoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: friendshipcoin2d.pid)</source>
-        <translation>Selecteer pid bestand (standaard: friendshipcoin2.conf)</translation>
+        <source>Specify pid file (default: hicoind.pid)</source>
+        <translation>Selecteer pid bestand (standaard: hicoin.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2992,7 +2992,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3003,7 +3003,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.c
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = friendshipcoin2rpc 
+rpcuser = hicoinrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 

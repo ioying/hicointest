@@ -108,7 +108,7 @@ OBJS= \
 #    obj/zerocoin/SpendMetaData.o \
 #    obj/zerocoin/ZeroTest.o
 
-all: friendshipcoin2d.exe
+all: hicoind.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -130,11 +130,11 @@ obj/scrypt-x86.o: scrypt-x86.S
 obj/scrypt-x86_64.o: scrypt-x86_64.S
 	$(CXX) -c $(xCXXFLAGS) -MMD -o $@ $<
 
-friendshipcoin2d.exe: $(OBJS:obj/%=obj/%)
+hicoind.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	-del /Q friendshipcoin2d
+	-del /Q hicoind
 	-del /Q obj\*
 #	-del /Q obj\zerocoin\*
 

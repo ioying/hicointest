@@ -1,5 +1,5 @@
-IDI_ICON1 ICON DISCARDABLE "icons/friendshipcoin2.ico"
-IDI_ICON2 ICON DISCARDABLE "icons/friendshipcoin2_testnet.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/hicoin.ico"
+IDI_ICON2 ICON DISCARDABLE "icons/hicoin_testnet.ico"
  
 
 #include <windows.h>             // needed for VERSIONINFO

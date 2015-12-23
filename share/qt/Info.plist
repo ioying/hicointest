@@ -3,7 +3,7 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>friendshipcoin2.icns</string>
+	<string>hicoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
@@ -17,17 +17,17 @@
 	<key>CFBundleExecutable</key>
 	<string>HiCoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.friendshipcoin2.HiCoin-Qt</string>
+	<string>org.hicoin.HiCoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.friendshipcoin2.HiCoinPayment</string>
+            <string>org.hicoin.HiCoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>friendshipcoin2</string>
+              <string>hicoin</string>
             </array>
           </dict>
         </array>

@@ -1673,8 +1673,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 HICOIN</source>
-        <translation>123.456 HICOIN {0.00 ?}</translation>
+        <source>0.00 XHI</source>
+        <translation>123.456 XHI {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1743,8 +1743,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 HICOIN</source>
-        <translation>123.456 HICOIN</translation>
+        <source>123.456 XHI</source>
+        <translation>123.456 XHI</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -2627,8 +2627,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or friendshipcoin2d</source>
-        <translation>Envoyer commande à -server ou friendshipcoin2d</translation>
+        <source>Send command to -server or hicoind</source>
+        <translation>Envoyer commande à -server ou hicoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2647,13 +2647,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: friendshipcoin2.conf)</source>
-        <translation>Spécifier le fichier de configuration (defaut: friendshipcoin2.conf)</translation>
+        <source>Specify configuration file (default: hicoin.conf)</source>
+        <translation>Spécifier le fichier de configuration (defaut: hicoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: friendshipcoin2d.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: friendshipcoin2d.pid)
+        <source>Specify pid file (default: hicoind.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: hicoind.pid)
 </translation>
     </message>
     <message>
@@ -2993,7 +2993,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3004,7 +3004,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.c
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.

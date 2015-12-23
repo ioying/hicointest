@@ -69,7 +69,7 @@ void Shutdown(void* parg)
     static bool fTaken;
 
     // Make this thread recognisable as the shutdown thread
-    RenameThread("friendshipcoin2-shutoff");
+    RenameThread("hicoin-shutoff");
 
     bool fFirstThread = false;
     {
@@ -154,10 +154,10 @@ bool AppInit(int argc, char* argv[])
             // First part of help message is specific to bitcoind / RPC client
             std::string strUsage = _("HiCoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  friendshipcoin2d [options]                     " + "\n" +
-                  "  friendshipcoin2d [options] <command> [params]  " + _("Send command to -server or friendshipcoin2d") + "\n" +
-                  "  friendshipcoin2d [options] help                " + _("List commands") + "\n" +
-                  "  friendshipcoin2d [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  hicoind [options]                     " + "\n" +
+                  "  hicoind [options] <command> [params]  " + _("Send command to -server or hicoind") + "\n" +
+                  "  hicoind [options] help                " + _("List commands") + "\n" +
+                  "  hicoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -167,7 +167,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "friendshipcoin2:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "hicoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)
@@ -235,8 +235,8 @@ std::string HelpMessage()
 {
     string strUsage = _("Options:") + "\n" +
         "  -?                     " + _("This help message") + "\n" +
-        "  -conf=<file>           " + _("Specify configuration file (default: friendshipcoin2.conf)") + "\n" +
-        "  -pid=<file>            " + _("Specify pid file (default: friendshipcoin2d.pid)") + "\n" +
+        "  -conf=<file>           " + _("Specify configuration file (default: hicoin.conf)") + "\n" +
+        "  -pid=<file>            " + _("Specify pid file (default: hicoind.pid)") + "\n" +
         "  -datadir=<dir>         " + _("Specify data directory") + "\n" +
         "  -wallet=<dir>          " + _("Specify wallet file (within data directory)") + "\n" +
         "  -dbcache=<n>           " + _("Set database cache size in megabytes (default: 25)") + "\n" +

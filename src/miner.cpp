@@ -525,7 +525,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("friendshipcoin2-miner");
+    RenameThread("hicoin-miner");
 
     bool fTryToSync = true;
 

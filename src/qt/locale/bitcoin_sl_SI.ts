@@ -1673,8 +1673,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 HICOIN</source>
-        <translation>123.456 HICOIN {0.00 ?}</translation>
+        <source>0.00 XHI</source>
+        <translation>123.456 XHI {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1743,8 +1743,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 HICOIN</source>
-        <translation>123.456 HICOIN</translation>
+        <source>123.456 XHI</source>
+        <translation>123.456 XHI</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -2627,8 +2627,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or friendshipcoin2d</source>
-        <translation>Pošlji ukaz na -server ali friendshipcoin2d</translation>
+        <source>Send command to -server or hicoind</source>
+        <translation>Pošlji ukaz na -server ali hicoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2647,13 +2647,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: friendshipcoin2.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: friendshipcoin2.conf)</translation>
+        <source>Specify configuration file (default: hicoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: hicoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: friendshipcoin2d.pid)</source>
-        <translation>Določi pid datoteko (privzeto: friendshipcoin2d.pid)</translation>
+        <source>Specify pid file (default: hicoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: hicoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2992,7 +2992,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3003,7 +3003,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.c
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=friendshipcoin2rpc
+rpcuser=hicoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
