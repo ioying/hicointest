@@ -964,10 +964,10 @@ int64_t GetProofOfWorkReward(int nHeight, int64_t nFees)
 {
     int64_t nSubsidy = 0;
     if (nHeight <= LAST_POW_BLOCK) { // no pow reward after LAST_POW_BLOCK
-      nSubsidy = 100 * COIN;
+      nSubsidy = 1000 * COIN;
     }
     if (nHeight <= LAST_PREMINE_BLOCK) { //  premine
-      nSubsidy = 500000 * COIN;
+      nSubsidy = 20000000 * COIN;
     }
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%f\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
@@ -2470,8 +2470,8 @@ bool LoadBlockIndex(bool fAllowNew)
        Coinbase(hash=0dc4b04324, nTime=1419164474, ver=1, vin.size=1, vout.size=1, nLockTime=0)
        CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d010437467269656e6473686970436f696e20506f5320636f696e20666f7220736f6369616c20776974686f7574204153494373206d696e696e67)
         */
-        unsigned int nTimeGenesis= fTestNet ? 1450897686 : 1450897726;
-        unsigned int nNonceGenesis= fTestNet ? 70645 : 2465904;
+        unsigned int nTimeGenesis= fTestNet ? 1450897689 : 1450897726;
+        unsigned int nNonceGenesis= fTestNet ? 0 : 2465904;
 
         const char* pszTimestamp = "Turkey Moves to Clamp Down on Border, Long a Revolving Door"; // By TIM ARANGO, DEC 22, 2015, The New York Times
         CTransaction txNew;
@@ -2497,10 +2497,10 @@ bool LoadBlockIndex(bool fAllowNew)
 
         // debug print
         if(fTestNet){
-          assert(block.hashMerkleRoot == uint256("0x31bfda2fb217db7f0f7832073cefda1f4b48a71b93bb07d66af88274654da67a"));
+          assert(block.hashMerkleRoot == uint256("0x"));
         }
         else {
-          assert(block.hashMerkleRoot == uint256("0x0dc4b04324f38b6043eecea7dcc1eb952b8f7ebebc698a21329c0b965a9d6003"));
+          assert(block.hashMerkleRoot == uint256("0x"));
         }
         if (true && block.GetHash() != hashGenesisBlock)
         {
