@@ -55,9 +55,9 @@ BLOCKS 13~3600: 100 XHI
 
 COIN POS AGE: Min. 1 hour / Max. unlimited
 
-RPC PORT: 36286 (testnet 36288 )
+RPC PORT: 35288 (testnet 45288 )
 
-PORT: 36285 (testnet 36287 )
+PORT: 35289 (testnet 45289 )
 
 Coin maturity: 100 confirmations
 
