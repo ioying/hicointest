@@ -2470,10 +2470,10 @@ bool LoadBlockIndex(bool fAllowNew)
        Coinbase(hash=0dc4b04324, nTime=1419164474, ver=1, vin.size=1, vout.size=1, nLockTime=0)
        CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d010437467269656e6473686970436f696e20506f5320636f696e20666f7220736f6369616c20776974686f7574204153494373206d696e696e67)
         */
-        unsigned int nTimeGenesis= fTestNet ? 1418386332 : 1419164474;
+        unsigned int nTimeGenesis= fTestNet ? 1450897686 : 1450897726;
         unsigned int nNonceGenesis= fTestNet ? 2063900 : 2465904;
 
-        const char* pszTimestamp = "HiCoin PoS coin for social without ASICs mining";
+        const char* pszTimestamp = "Turkey Moves to Clamp Down on Border, Long a Revolving Door"; // By TIM ARANGO, DEC 22, 2015, The New York Times
         CTransaction txNew;
         txNew.nTime = nTimeGenesis;
         txNew.vin.resize(1);
