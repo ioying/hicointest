@@ -1,0 +1,10 @@
+*.dll
+*.exe
+*.o
+*.so
+*.bak
+*.log
+src/obj/*
+src/hicoind
+[Rr]elease*/
+[Db]uild/
