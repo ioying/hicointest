@@ -2471,7 +2471,7 @@ bool LoadBlockIndex(bool fAllowNew)
        CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d010437467269656e6473686970436f696e20506f5320636f696e20666f7220736f6369616c20776974686f7574204153494373206d696e696e67)
         */
         unsigned int nTimeGenesis= fTestNet ? 1450897686 : 1450897726;
-        unsigned int nNonceGenesis= fTestNet ? 2063900 : 2465904;
+        unsigned int nNonceGenesis= fTestNet ? 70645 : 2465904;
 
         const char* pszTimestamp = "Turkey Moves to Clamp Down on Border, Long a Revolving Door"; // By TIM ARANGO, DEC 22, 2015, The New York Times
         CTransaction txNew;
@@ -2497,11 +2497,42 @@ bool LoadBlockIndex(bool fAllowNew)
 
         // debug print
         if(fTestNet){
-          assert(block.hashMerkleRoot == uint256("0xf4d8fe816991a532cc448518ef180701303fed9a961e3539e24ba0fa2780e498"));
+          assert(block.hashMerkleRoot == uint256("0x31bfda2fb217db7f0f7832073cefda1f4b48a71b93bb07d66af88274654da67a"));
         }
-        else{
+        else {
           assert(block.hashMerkleRoot == uint256("0x0dc4b04324f38b6043eecea7dcc1eb952b8f7ebebc698a21329c0b965a9d6003"));
         }
+        if (true && block.GetHash() != hashGenesisBlock)
+        {
+            printf("Searching for genesis block...\n");
+            // This will figure out a valid hash and Nonce if you're
+           // creating a different genesis block:
+           uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
+           uint256 thash;
+           char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
+
+           loop
+           {
+               scrypt_1024_1_1_256_sp(BEGIN(block.nVersion), BEGIN(thash), scratchpad);
+               if (thash <= hashTarget)
+                   break;
+               if ((block.nNonce & 0xFFF) == 0)
+               {
+                   printf("nonce %08X: hash = %s (target = %s)\n", block.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+               }
+               ++block.nNonce;
+               if (block.nNonce == 0)
+               {
+                   printf("NONCE WRAPPED, incrementing time\n");
+                   ++block.nTime;
+               }
+           }
+           printf("block.nTime = %u \n", block.nTime);
+           printf("block.nNonce = %u \n", block.nNonce);
+           printf("block.GetHash = %s\n", block.GetHash().ToString().c_str());
+        }
+
+
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 

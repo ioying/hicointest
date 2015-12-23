@@ -44,7 +44,7 @@ static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20
 
 
 static const uint256 hashGenesisBlock("0x00000669a79e15a4c985d12ab530b090a91e3343f04cc1577e0f6260429ae775");
-static const uint256 hashGenesisBlockTestNet("0x0000ee1ba345e86c523e2996338cf240a2ff07baad019d4bf93ff2b3a75045bd");
+static const uint256 hashGenesisBlockTestNet("0x0000fb23c7706663b38d8990e909b3a63e6752082656cb90ad943cc824022373");
 
 
 inline int64_t PastDrift(int64_t nTime)   { return nTime - 2 * 60 * 60; } // two hours
