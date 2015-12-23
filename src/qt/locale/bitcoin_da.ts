@@ -3,24 +3,24 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FriendshipCoin2</source>
-        <translation>Om FriendshipCoin2</translation>
+        <source>About HiCoin</source>
+        <translation>Om HiCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FriendshipCoin2&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;FriendshipCoin2&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;HiCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;HiCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</source>
+Copyright © 2014 The HiCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</translation>
+Copyright © 2014 The HiCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -67,8 +67,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FriendshipCoin2 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine FriendshipCoin2 adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your HiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine HiCoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -82,8 +82,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FriendshipCoin2 address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en FriendshipCoin2 adresse</translation>
+        <source>Sign a message to prove you own a HiCoin address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en HiCoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -97,8 +97,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FriendshipCoin2 address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret FriendshipCoin2 adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified HiCoin address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret HiCoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -265,8 +265,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>FriendshipCoin2 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>FriendshipCoin2 lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>HiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>HiCoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -379,8 +379,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about FriendshipCoin2</source>
-        <translation>Vis oplysninger om FriendshipCoin2</translation>
+        <source>Show information about HiCoin</source>
+        <translation>Vis oplysninger om HiCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a FriendshipCoin2 address</source>
-        <translation>Send mønter til en FriendshipCoin2 adresse</translation>
+        <source>Send coins to a HiCoin address</source>
+        <translation>Send mønter til en HiCoin adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for FriendshipCoin2</source>
-        <translation>Ændre indstillingsmuligheder for FriendshipCoin2</translation>
+        <source>Modify configuration options for HiCoin</source>
+        <translation>Ændre indstillingsmuligheder for HiCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -474,8 +474,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -484,8 +484,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About FriendshipCoin2</source>
-        <translation>&amp;Om FriendshipCoin2</translation>
+        <source>&amp;About HiCoin</source>
+        <translation>&amp;Om HiCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -541,13 +541,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FriendshipCoin2 client</source>
-        <translation>FriendshipCoin2 klient</translation>
+        <source>HiCoin client</source>
+        <translation>HiCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to FriendshipCoin2 network</source>
-        <translation><numerusform>%n aktiv forbindelse til FriendshipCoin2 netværk</numerusform><numerusform>%n aktive forbindelser til FriendshipCoin2 netværk</numerusform></translation>
+        <source>%n active connection(s) to HiCoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til HiCoin netværk</numerusform><numerusform>%n aktive forbindelser til HiCoin netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -661,8 +661,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FriendshipCoin2 address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig FriendshipCoin2 adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid HiCoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig HiCoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -721,7 +721,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FriendshipCoin2 can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. HiCoin can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1055,8 +1055,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FriendshipCoin2 address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig FriendshipCoin2 adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid HiCoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig HiCoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FriendshipCoin2-Qt</source>
-        <translation>FriendshipCoin2-Qt</translation>
+        <source>HiCoin-Qt</source>
+        <translation>HiCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FriendshipCoin2 after logging in to the system.</source>
-        <translation>Automatisk start FriendshipCoin2 efter at have logget ind på systemet.</translation>
+        <source>Automatically start HiCoin after logging in to the system.</source>
+        <translation>Automatisk start HiCoin efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FriendshipCoin2 on system login</source>
-        <translation>&amp;Start FriendshipCoin2 ved systems login</translation>
+        <source>&amp;Start HiCoin on system login</source>
+        <translation>&amp;Start HiCoin ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1172,8 +1172,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FriendshipCoin2 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne FriendshipCoin2 klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the HiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne HiCoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1182,8 +1182,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FriendshipCoin2 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til FriendshipCoin2 netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the HiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til HiCoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1257,8 +1257,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af FriendshipCoin2 tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting HiCoin.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af HiCoin tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1272,8 +1272,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FriendshipCoin2 addresses in the transaction list or not.</source>
-        <translation>Få vist FriendshipCoin2 adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show HiCoin addresses in the transaction list or not.</source>
+        <translation>Få vist HiCoin adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1319,8 +1319,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af FriendshipCoin2.</translation>
+        <source>This setting will take effect after restarting HiCoin.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af HiCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1338,8 +1338,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FriendshipCoin2 network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med FriendshipCoin2 netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the HiCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med HiCoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1554,8 +1554,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FriendshipCoin2-Qt help message to get a list with possible FriendshipCoin2 command-line options.</source>
-        <translation>Vis FriendshipCoin2-Qt hjælpe besked for at få en liste med mulige FriendshipCoin2 kommandolinjeparametre.</translation>
+        <source>Show the HiCoin-Qt help message to get a list with possible HiCoin command-line options.</source>
+        <translation>Vis HiCoin-Qt hjælpe besked for at få en liste med mulige HiCoin kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1574,13 +1574,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>FriendshipCoin2 - Debug window</source>
-        <translation>FriendshipCoin2 - Debug vindue</translation>
+        <source>HiCoin - Debug window</source>
+        <translation>HiCoin - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FriendshipCoin2 Core</source>
-        <translation>FriendshipCoin2 Kerne</translation>
+        <source>HiCoin Core</source>
+        <translation>HiCoin Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1589,8 +1589,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FriendshipCoin2 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn FriendshipCoin2 debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the HiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn HiCoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1599,8 +1599,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FriendshipCoin2 RPC console.</source>
-        <translation>Velkommen til FriendshipCoin2 RPC-konsol.</translation>
+        <source>Welcome to the HiCoin RPC console.</source>
+        <translation>Velkommen til HiCoin RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1673,8 +1673,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FSC2</source>
-        <translation>123.456 FSC2 {0.00 ?}</translation>
+        <source>0.00 HICOIN</source>
+        <translation>123.456 HICOIN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1743,8 +1743,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FSC2</source>
-        <translation>123.456 FSC2</translation>
+        <source>123.456 HICOIN</source>
+        <translation>123.456 HICOIN</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1758,8 +1758,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Indtast en FriendshipCoin2-adresse (f.eks FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Indtast en HiCoin-adresse (f.eks FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1858,8 +1858,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FriendshipCoin2 address</source>
-        <translation>ADVARSEL: Ugyldig FriendshipCoin2 adresse</translation>
+        <source>WARNING: Invalid HiCoin address</source>
+        <translation>ADVARSEL: Ugyldig HiCoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1932,8 +1932,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Indtast en FriendshipCoin2-adresse (f.eks FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Indtast en HiCoin-adresse (f.eks FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
 </context>
 <context>
@@ -1993,8 +1993,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FriendshipCoin2 address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne FriendshipCoin2 adresse</translation>
+        <source>Sign the message to prove you own this HiCoin address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne HiCoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FriendshipCoin2 address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne FriendshipCoin2 adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified HiCoin address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne HiCoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2036,8 +2036,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Indtast en FriendshipCoin2-adresse (f.eks FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Indtast en HiCoin-adresse (f.eks FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2046,8 +2046,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FriendshipCoin2 signature</source>
-        <translation>Indtast FriendshipCoin2 underskrift</translation>
+        <source>Enter HiCoin signature</source>
+        <translation>Indtast HiCoin underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2617,8 +2617,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FriendshipCoin2 version</source>
-        <translation>FriendshipCoin2 version</translation>
+        <source>HiCoin version</source>
+        <translation>HiCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2802,8 +2802,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FriendshipCoin2 will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil FriendshipCoin2 ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong HiCoin will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil HiCoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,7 +2998,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
@@ -3009,7 +3009,7 @@ rpcpassword =% s
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;FriendshipCoin2 Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;HiCoin Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;FriendshipCoin2 Alert&quot; 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FriendshipCoin2 is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. FriendshipCoin2 kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  HiCoin is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. HiCoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;FriendshipCoin2 Alert&quot; 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FriendshipCoin2</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af FriendshipCoin2</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of HiCoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af HiCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FriendshipCoin2 to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart FriendshipCoin2 for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart HiCoin to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart HiCoin for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;FriendshipCoin2 Alert&quot; 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FriendshipCoin2 is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. FriendshipCoin2 kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. HiCoin is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. HiCoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

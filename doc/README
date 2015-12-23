@@ -1,6 +1,6 @@
-FriendshipCoin2
+HiCoin
 
-Copyright (c) 2014-2015 FriendshipCoin2 Developers
+Copyright (c) 2014-2015 HiCoin Developers
 Copyright (c) 2014 BlackCoin Developers
 Copyright (c) 2011-2015 PPCoin Developers
 Copyright (c) 2009-2015 Bitcoin Developers
@@ -14,7 +14,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-FriendshipCoin2 is a free open source project derived from Bitcoin, with
+HiCoin is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
 Built on the foundation of Bitcoin, PPCoin and BlackCoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.

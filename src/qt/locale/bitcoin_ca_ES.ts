@@ -3,24 +3,24 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FriendshipCoin2</source>
-        <translation>Sobre FriendshipCoin2</translation>
+        <source>About HiCoin</source>
+        <translation>Sobre HiCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FriendshipCoin2&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;FriendshipCoin2&lt;/b&gt;</translation>
+        <source>&lt;b&gt;HiCoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;HiCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</source>
+Copyright © 2014 The HiCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</translation>
+Copyright © 2014 The HiCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FriendshipCoin2 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de FriendshipCoin2 per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your HiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de HiCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FriendshipCoin2 address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça FriendshipCoin2</translation>
+        <source>Sign a message to prove you own a HiCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça HiCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -92,8 +92,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FriendshipCoin2 address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça FriendshipCoin2 especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified HiCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça HiCoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -260,8 +260,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>FriendshipCoin2 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>FriendshipCoin2 tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>HiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>HiCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about FriendshipCoin2</source>
-        <translation>Mostra informació sobre FriendshipCoin2</translation>
+        <source>Show information about HiCoin</source>
+        <translation>Mostra informació sobre HiCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -424,13 +424,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a FriendshipCoin2 address</source>
-        <translation>Enviar monedes a una adreça FriendshipCoin2</translation>
+        <source>Send coins to a HiCoin address</source>
+        <translation>Enviar monedes a una adreça HiCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for FriendshipCoin2</source>
-        <translation>Modificar les opcions de configuració per a FriendshipCoin2</translation>
+        <source>Modify configuration options for HiCoin</source>
+        <translation>Modificar les opcions de configuració per a HiCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -469,8 +469,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -479,8 +479,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About FriendshipCoin2</source>
-        <translation>&amp;Sobre FriendshipCoin2</translation>
+        <source>&amp;About HiCoin</source>
+        <translation>&amp;Sobre HiCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -536,13 +536,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FriendshipCoin2 client</source>
-        <translation>Client FriendshipCoin2</translation>
+        <source>HiCoin client</source>
+        <translation>Client HiCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to FriendshipCoin2 network</source>
-        <translation><numerusform>%n conexió activa a la xarxa FriendshipCoin2</numerusform><numerusform>%n conexions actives a la xarxa FriendshipCoin2</numerusform></translation>
+        <source>%n active connection(s) to HiCoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa HiCoin</numerusform><numerusform>%n conexions actives a la xarxa HiCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -652,8 +652,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FriendshipCoin2 address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça FriendshipCoin2 no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid HiCoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça HiCoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -712,8 +712,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FriendshipCoin2 can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. FriendshipCoin2 ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. HiCoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. HiCoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1046,8 +1046,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FriendshipCoin2 address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça FriendshipCoin2 vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid HiCoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça HiCoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1065,8 +1065,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FriendshipCoin2-Qt</source>
-        <translation>FriendshipCoin2-Qt</translation>
+        <source>HiCoin-Qt</source>
+        <translation>HiCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1138,13 +1138,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FriendshipCoin2 after logging in to the system.</source>
-        <translation>Inicia automàticament FriendshipCoin2 després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start HiCoin after logging in to the system.</source>
+        <translation>Inicia automàticament HiCoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FriendshipCoin2 on system login</source>
-        <translation>&amp;Iniciar FriendshipCoin2 amb l&apos;inici de sessió</translation>
+        <source>&amp;Start HiCoin on system login</source>
+        <translation>&amp;Iniciar HiCoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1163,8 +1163,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FriendshipCoin2 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client FriendshipCoin2 en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the HiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client HiCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1173,8 +1173,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FriendshipCoin2 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa FriendshipCoin2 través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the HiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa HiCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1248,8 +1248,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar FriendshipCoin2.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting HiCoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar HiCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1263,8 +1263,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FriendshipCoin2 addresses in the transaction list or not.</source>
-        <translation>Per mostrar FriendshipCoin2 adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show HiCoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar HiCoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1310,8 +1310,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar FriendshipCoin2.</translation>
+        <source>This setting will take effect after restarting HiCoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar HiCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1329,8 +1329,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FriendshipCoin2 network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa FriendshipCoin2 després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the HiCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa HiCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1545,8 +1545,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FriendshipCoin2-Qt help message to get a list with possible FriendshipCoin2 command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de FriendshipCoin2-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres FriendshipCoin2.</translation>
+        <source>Show the HiCoin-Qt help message to get a list with possible HiCoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de HiCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres HiCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,13 +1565,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>FriendshipCoin2 - Debug window</source>
-        <translation>FriendshipCoin2 - Finestra Depuració</translation>
+        <source>HiCoin - Debug window</source>
+        <translation>HiCoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FriendshipCoin2 Core</source>
-        <translation>Nucli FriendshipCoin2</translation>
+        <source>HiCoin Core</source>
+        <translation>Nucli HiCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1580,8 +1580,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FriendshipCoin2 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració FriendshipCoin2 des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the HiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració HiCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1590,8 +1590,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FriendshipCoin2 RPC console.</source>
-        <translation>Benvingut a la consola RPC de FriendshipCoin2.</translation>
+        <source>Welcome to the HiCoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de HiCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1664,8 +1664,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FSC2</source>
-        <translation>123.456 FSC2 {0.00 ?}</translation>
+        <source>0.00 HICOIN</source>
+        <translation>123.456 HICOIN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1734,8 +1734,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FSC2</source>
-        <translation>123.456 FSC2</translation>
+        <source>123.456 HICOIN</source>
+        <translation>123.456 HICOIN</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1749,8 +1749,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introdueix una adreça FriendshipCoin2 (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Introdueix una adreça HiCoin (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1849,8 +1849,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FriendshipCoin2 address</source>
-        <translation>ADVERTÈNCIA: Direcció FriendshipCoin2 invàlida</translation>
+        <source>WARNING: Invalid HiCoin address</source>
+        <translation>ADVERTÈNCIA: Direcció HiCoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1923,8 +1923,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introdueix una adreça FriendshipCoin2 (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Introdueix una adreça HiCoin (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
 </context>
 <context>
@@ -1984,8 +1984,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FriendshipCoin2 address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça FriendshipCoin2</translation>
+        <source>Sign the message to prove you own this HiCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça HiCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2016,8 +2016,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FriendshipCoin2 address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça FriendshipCoin2 especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified HiCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça HiCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,8 +2027,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introdueix una adreça FriendshipCoin2 (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Introdueix una adreça HiCoin (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2037,8 +2037,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FriendshipCoin2 signature</source>
-        <translation>Introduïu la signatura FriendshipCoin2</translation>
+        <source>Enter HiCoin signature</source>
+        <translation>Introduïu la signatura HiCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2608,8 +2608,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FriendshipCoin2 version</source>
-        <translation>versió FriendshipCoin2</translation>
+        <source>HiCoin version</source>
+        <translation>versió HiCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2793,8 +2793,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FriendshipCoin2 will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni FriendshipCoin2 no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong HiCoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni HiCoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,7 +2989,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
@@ -3000,7 +3000,7 @@ rpcpassword=%s
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3126,13 +3126,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FriendshipCoin2 is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. FriendshipCoin2 probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  HiCoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. HiCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3166,13 +3166,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FriendshipCoin2</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de FriendshipCoin2</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of HiCoin</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de HiCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FriendshipCoin2 to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar FriendshipCoin2 per completar</translation>
+        <source>Wallet needed to be rewritten: restart HiCoin to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar HiCoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3241,8 +3241,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FriendshipCoin2 is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. FriendshipCoin2 probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. HiCoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. HiCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

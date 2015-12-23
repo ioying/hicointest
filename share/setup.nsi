@@ -1,4 +1,4 @@
-Name "FriendshipCoin2 (32-bit)"
+Name "HiCoin (32-bit)"
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,7 +6,7 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 1.0.1
-!define COMPANY "FriendshipCoin2 Project"
+!define COMPANY "HiCoin Project"
 !define URL http://www.friendshipcoins.com
 
 # MUI Symbol Definitions
@@ -19,8 +19,8 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER "FriendshipCoin2"
-!define MUI_FINISHPAGE_RUN $INSTDIR\FriendshipCoin2.exe
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER "HiCoin"
+!define MUI_FINISHPAGE_RUN $INSTDIR\HiCoin.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "..\share\pixmaps\nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
@@ -48,42 +48,42 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-  OutFile FriendshipCoin2-v${VERSION}-win32-setup.exe
+  OutFile HiCoin-v${VERSION}-win32-setup.exe
   !define VERSION_STRING ${VERSION}-win32
 !if "32" == "64"
-  InstallDir $PROGRAMFILES64\FriendshipCoin2
+  InstallDir $PROGRAMFILES64\HiCoin
 !else
-  InstallDir $PROGRAMFILES\FriendshipCoin2
+  InstallDir $PROGRAMFILES\HiCoin
 !endif
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion ${VERSION}.0
-VIAddVersionKey ProductName "FriendshipCoin2"
+VIAddVersionKey ProductName "HiCoin"
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
 VIAddVersionKey FileVersion "${VERSION}"
 
-VIAddVersionKey FileDescription "FriendshipCoin2 Installer v.${VERSION_STRING}"
+VIAddVersionKey FileDescription "HiCoin Installer v.${VERSION_STRING}"
 
-VIAddVersionKey LegalCopyright "Copyright (c) 2014-2015 FriendshipCoin2 Developers\n Copyright (c) 2014 BlackCoinDevelopers\n Copyright (c) 2011-2015 PPCoin Developers\n Copyright (c) 2009-2015 Bitcoin Developers"
+VIAddVersionKey LegalCopyright "Copyright (c) 2014-2015 HiCoin Developers\n Copyright (c) 2014 BlackCoinDevelopers\n Copyright (c) 2011-2015 PPCoin Developers\n Copyright (c) 2009-2015 Bitcoin Developers"
 InstallDirRegKey HKCU "${REGKEY}" Path
 ShowUninstDetails show
 
 # Installer sections
 Section -Main SEC0000
 
-    # Remove old wxwidgets-based-FriendshipCoin2 executable and locales:
-    Delete /REBOOTOK $INSTDIR\FriendshipCoin2.exe
+    # Remove old wxwidgets-based-HiCoin executable and locales:
+    Delete /REBOOTOK $INSTDIR\HiCoin.exe
     Delete /REBOOTOK $INSTDIR\daemon\friendshipcoin2d.exe
     RMDir /r /REBOOTOK $INSTDIR\daemon
     RMDir /r /REBOOTOK $INSTDIR\locale
 
     SetOutPath $INSTDIR
     SetOverwrite on
-    File /oname=FriendshipCoin2.exe ..\release\FriendshipCoin2-Qt.exe
+    File /oname=HiCoin.exe ..\release\HiCoin-Qt.exe
     File /oname=COPYING.txt ..\COPYING
     File /oname=readme.txt ..\doc\README_windows.txt
     SetOutPath $INSTDIR\daemon
@@ -100,7 +100,7 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk" $INSTDIR\FriendshipCoin2.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk" $INSTDIR\HiCoin.exe
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
@@ -113,8 +113,8 @@ Section -post SEC0001
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
     WriteRegStr HKCR "friendshipcoin2" "URL Protocol" ""
     WriteRegStr HKCR "friendshipcoin2" "" "URL:friendshipcoin2"
-    WriteRegStr HKCR "friendshipcoin2\DefaultIcon" "" $INSTDIR\FriendshipCoin2.exe
-    WriteRegStr HKCR "friendshipcoin2\shell\open\command" "" '"$INSTDIR\FriendshipCoin2.exe" "%1"'
+    WriteRegStr HKCR "friendshipcoin2\DefaultIcon" "" $INSTDIR\HiCoin.exe
+    WriteRegStr HKCR "friendshipcoin2\shell\open\command" "" '"$INSTDIR\HiCoin.exe" "%1"'
 SectionEnd
 
 # Macro for selecting uninstaller sections
@@ -132,7 +132,7 @@ done${UNSECTION_ID}:
 
 # Uninstaller sections
 Section /o -un.Main UNSEC0000
-    Delete /REBOOTOK $INSTDIR\FriendshipCoin2.exe
+    Delete /REBOOTOK $INSTDIR\HiCoin.exe
     Delete /REBOOTOK $INSTDIR\COPYING.txt
     Delete /REBOOTOK $INSTDIR\readme.txt
     RMDir /r /REBOOTOK $INSTDIR\daemon
@@ -144,7 +144,7 @@ Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk"
-    Delete /REBOOTOK "$SMSTARTUP\FriendshipCoin2.lnk"
+    Delete /REBOOTOK "$SMSTARTUP\HiCoin.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log
@@ -152,7 +152,7 @@ Section -un.post UNSEC0001
     DeleteRegValue HKCU "${REGKEY}" Path
     DeleteRegKey /IfEmpty HKCU "${REGKEY}\Components"
     DeleteRegKey /IfEmpty HKCU "${REGKEY}"
-    DeleteRegKey HKCR "FriendshipCoin2"
+    DeleteRegKey HKCR "HiCoin"
     RmDir /REBOOTOK $SMPROGRAMS\$StartMenuGroup
     RmDir /REBOOTOK $INSTDIR
     Push $R0

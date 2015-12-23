@@ -3,24 +3,24 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FriendshipCoin2</source>
-        <translation>O FriendshipCoin2</translation>
+        <source>About HiCoin</source>
+        <translation>O HiCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FriendshipCoin2&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;FriendshipCoin2&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;HiCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;HiCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</source>
+Copyright © 2014 The HiCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</translation>
+Copyright © 2014 The HiCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -67,8 +67,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FriendshipCoin2 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši FriendshipCoin2 naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your HiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši HiCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -82,8 +82,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FriendshipCoin2 address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva FriendshipCoin2 naslova</translation>
+        <source>Sign a message to prove you own a HiCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva HiCoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -97,8 +97,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FriendshipCoin2 address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim FriendshipCoin2 naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified HiCoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim HiCoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -265,8 +265,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>FriendshipCoin2 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>FriendshipCoin2 se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>HiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>HiCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -379,8 +379,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about FriendshipCoin2</source>
-        <translation>Pokaži informacije o FriendshipCoin2</translation>
+        <source>Show information about HiCoin</source>
+        <translation>Pokaži informacije o HiCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a FriendshipCoin2 address</source>
-        <translation>Pošlji kovance na FriendshipCoin2 naslov</translation>
+        <source>Send coins to a HiCoin address</source>
+        <translation>Pošlji kovance na HiCoin naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for FriendshipCoin2</source>
-        <translation>Spremeni nastavitve za FriendshipCoin2</translation>
+        <source>Modify configuration options for HiCoin</source>
+        <translation>Spremeni nastavitve za HiCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -474,8 +474,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -484,8 +484,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About FriendshipCoin2</source>
-        <translation>&amp;O FriendshipCoin2</translation>
+        <source>&amp;About HiCoin</source>
+        <translation>&amp;O HiCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -541,13 +541,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FriendshipCoin2 client</source>
-        <translation>FriendshipCoin2 program</translation>
+        <source>HiCoin client</source>
+        <translation>HiCoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to FriendshipCoin2 network</source>
-        <translation><numerusform>%n aktivne povezave na FriendshipCoin2 omrežje</numerusform><numerusform>%n aktivnih povezav na FriendshipCoin2 omrežje</numerusform><numerusform>%n aktivnih povezav na FriendshipCoin2 omrežje</numerusform><numerusform>%n aktivnih povezav na FriendshipCoin2 omrežje</numerusform></translation>
+        <source>%n active connection(s) to HiCoin network</source>
+        <translation><numerusform>%n aktivne povezave na HiCoin omrežje</numerusform><numerusform>%n aktivnih povezav na HiCoin omrežje</numerusform><numerusform>%n aktivnih povezav na HiCoin omrežje</numerusform><numerusform>%n aktivnih povezav na HiCoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -661,8 +661,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FriendshipCoin2 address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega FriendshipCoin2 naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid HiCoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega HiCoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -721,8 +721,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FriendshipCoin2 can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program FriendshipCoin2 se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. HiCoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program HiCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1055,8 +1055,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FriendshipCoin2 address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven FriendshipCoin2 naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid HiCoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven HiCoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FriendshipCoin2-Qt</source>
-        <translation>FriendshipCoin2-Qt</translation>
+        <source>HiCoin-Qt</source>
+        <translation>HiCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FriendshipCoin2 after logging in to the system.</source>
-        <translation>Avtomatično zaženi FriendshipCoin2 ob zagonu sistema.</translation>
+        <source>Automatically start HiCoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi HiCoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FriendshipCoin2 on system login</source>
-        <translation>&amp;Zaženi FriendshipCoin2 ob prijavi v sistem</translation>
+        <source>&amp;Start HiCoin on system login</source>
+        <translation>&amp;Zaženi HiCoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1172,8 +1172,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FriendshipCoin2 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za FriendshipCoin2 program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the HiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za HiCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1182,8 +1182,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FriendshipCoin2 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na FriendshipCoin2 omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the HiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na HiCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1257,8 +1257,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu FriendshipCoin2 aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting HiCoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu HiCoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1272,8 +1272,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FriendshipCoin2 addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza FriendshipCoin2 naslovov v seznamu transakcij.</translation>
+        <source>Whether to show HiCoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza HiCoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1319,8 +1319,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu FriendshipCoin2 aplikacije</translation>
+        <source>This setting will take effect after restarting HiCoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu HiCoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1338,8 +1338,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FriendshipCoin2 network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z FriendshipCoin2 omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the HiCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z HiCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1554,8 +1554,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FriendshipCoin2-Qt help message to get a list with possible FriendshipCoin2 command-line options.</source>
-        <translation>Prikaži FriendshipCoin2-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice FriendshipCoin2 aplikacije</translation>
+        <source>Show the HiCoin-Qt help message to get a list with possible HiCoin command-line options.</source>
+        <translation>Prikaži HiCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice HiCoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1574,13 +1574,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>FriendshipCoin2 - Debug window</source>
-        <translation>FriendshipCoin2 - okno za odpravljanje napak</translation>
+        <source>HiCoin - Debug window</source>
+        <translation>HiCoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FriendshipCoin2 Core</source>
-        <translation>FriendshipCoin2 jedro</translation>
+        <source>HiCoin Core</source>
+        <translation>HiCoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1589,8 +1589,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FriendshipCoin2 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri FriendshipCoin2 datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the HiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri HiCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1599,8 +1599,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FriendshipCoin2 RPC console.</source>
-        <translation>Dobrodošli v FriendshipCoin2 RPC konzoli.</translation>
+        <source>Welcome to the HiCoin RPC console.</source>
+        <translation>Dobrodošli v HiCoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1673,8 +1673,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FSC2</source>
-        <translation>123.456 FSC2 {0.00 ?}</translation>
+        <source>0.00 HICOIN</source>
+        <translation>123.456 HICOIN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1743,8 +1743,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FSC2</source>
-        <translation>123.456 FSC2</translation>
+        <source>123.456 HICOIN</source>
+        <translation>123.456 HICOIN</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1758,8 +1758,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Vnesite FriendshipCoin2 naslov (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Vnesite HiCoin naslov (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1858,8 +1858,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FriendshipCoin2 address</source>
-        <translation>OPOZORILO: Neveljaven FriendshipCoin2 naslov</translation>
+        <source>WARNING: Invalid HiCoin address</source>
+        <translation>OPOZORILO: Neveljaven HiCoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1932,8 +1932,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Vnesite FriendshipCoin2 naslov (npr. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Vnesite HiCoin naslov (npr. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
 </context>
 <context>
@@ -1993,8 +1993,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FriendshipCoin2 address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva FriendshipCoin2 naslova</translation>
+        <source>Sign the message to prove you own this HiCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva HiCoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FriendshipCoin2 address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim FriendshipCoin2 naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified HiCoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim HiCoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2036,8 +2036,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Vnesite FriendshipCoin2 naslov (npr. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Vnesite HiCoin naslov (npr. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2046,8 +2046,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FriendshipCoin2 signature</source>
-        <translation>Vnesite FriendshipCoin2 podpis</translation>
+        <source>Enter HiCoin signature</source>
+        <translation>Vnesite HiCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2617,8 +2617,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FriendshipCoin2 version</source>
-        <translation>FriendshipCoin2 različica</translation>
+        <source>HiCoin version</source>
+        <translation>HiCoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2802,8 +2802,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FriendshipCoin2 will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno FriendshipCoin2 ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong HiCoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno HiCoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,7 +2998,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
@@ -3009,7 +3009,7 @@ rpcpassword=%s
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;HiCoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alarm&quot; admi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FriendshipCoin2 is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija FriendshipCoin2 je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  HiCoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija HiCoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alarm&quot; admi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FriendshipCoin2</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo FriendshipCoin2</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of HiCoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo HiCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FriendshipCoin2 to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite FriendshipCoin2 za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart HiCoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite HiCoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alarm&quot; admi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FriendshipCoin2 is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča FriendshipCoin2 aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. HiCoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča HiCoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

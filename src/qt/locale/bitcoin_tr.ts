@@ -3,24 +3,24 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FriendshipCoin2</source>
-        <translation>FriendshipCoin2 Hakkında</translation>
+        <source>About HiCoin</source>
+        <translation>HiCoin Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FriendshipCoin2&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;FriendshipCoin2&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;HiCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;HiCoin&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</source>
+Copyright © 2014 The HiCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</translation>
+Copyright © 2014 The HiCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -67,8 +67,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FriendshipCoin2 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için FriendshipCoin2 adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your HiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için HiCoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FriendshipCoin2 address</source>
-        <translation>Bir FriendshipCoin2 adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a HiCoin address</source>
+        <translation>Bir HiCoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -97,8 +97,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FriendshipCoin2 address</source>
-        <translation>Mesajın, belirli bir FriendshipCoin2 adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified HiCoin address</source>
+        <translation>Mesajın, belirli bir HiCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -265,8 +265,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>FriendshipCoin2 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>FriendshipCoin2, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>HiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>HiCoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -379,8 +379,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about FriendshipCoin2</source>
-        <translation>FriendshipCoin2 hakkındaki bilgiyi göster</translation>
+        <source>Show information about HiCoin</source>
+        <translation>HiCoin hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a FriendshipCoin2 address</source>
-        <translation>Bir FriendshipCoin2 adresine coin gönder</translation>
+        <source>Send coins to a HiCoin address</source>
+        <translation>Bir HiCoin adresine coin gönder</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for FriendshipCoin2</source>
-        <translation>FriendshipCoin2 yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for HiCoin</source>
+        <translation>HiCoin yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -474,8 +474,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -484,8 +484,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About FriendshipCoin2</source>
-        <translation>FriendshipCoin2 &amp;Hakkında</translation>
+        <source>&amp;About HiCoin</source>
+        <translation>HiCoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -541,13 +541,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FriendshipCoin2 client</source>
-        <translation>FriendshipCoin2 istemcisi</translation>
+        <source>HiCoin client</source>
+        <translation>HiCoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to FriendshipCoin2 network</source>
-        <translation><numerusform>FriendshipCoin2 ağına %n etkin bağlantı</numerusform><numerusform>FriendshipCoin2 ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to HiCoin network</source>
+        <translation><numerusform>HiCoin ağına %n etkin bağlantı</numerusform><numerusform>HiCoin ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -661,8 +661,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FriendshipCoin2 address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir FriendshipCoin2 adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid HiCoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir HiCoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -721,8 +721,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FriendshipCoin2 can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. FriendshipCoin2 artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. HiCoin can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. HiCoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1055,8 +1055,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FriendshipCoin2 address.</source>
-        <translation>Girilen %1 adresi, geçerli bir FriendshipCoin2 adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid HiCoin address.</source>
+        <translation>Girilen %1 adresi, geçerli bir HiCoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FriendshipCoin2-Qt</source>
-        <translation>FriendshipCoin2-Qt</translation>
+        <source>HiCoin-Qt</source>
+        <translation>HiCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FriendshipCoin2 after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra FriendshipCoin2&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start HiCoin after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra HiCoin&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FriendshipCoin2 on system login</source>
-        <translation>Sisteme girişte FriendshipCoin2&apos;i &amp;başlat</translation>
+        <source>&amp;Start HiCoin on system login</source>
+        <translation>Sisteme girişte HiCoin&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1172,8 +1172,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FriendshipCoin2 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide FriendshipCoin2 istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the HiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide HiCoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1182,8 +1182,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FriendshipCoin2 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>FriendshipCoin2 ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the HiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>HiCoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1257,8 +1257,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, FriendshipCoin2 yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting HiCoin.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, HiCoin yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1272,8 +1272,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FriendshipCoin2 addresses in the transaction list or not.</source>
-        <translation>FriendshipCoin2 adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
+        <source>Whether to show HiCoin addresses in the transaction list or not.</source>
+        <translation>HiCoin adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1319,8 +1319,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Bu ayar, FriendshipCoin2&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting HiCoin.</source>
+        <translation>Bu ayar, HiCoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1338,8 +1338,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FriendshipCoin2 network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak FriendshipCoin2 ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the HiCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak HiCoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1554,8 +1554,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FriendshipCoin2-Qt help message to get a list with possible FriendshipCoin2 command-line options.</source>
-        <translation>Muhtemel FriendshipCoin2 komut satırı seçeneklerinin bir listesini getirmek için FriendshipCoin2-Qt yardım mesajını göster</translation>
+        <source>Show the HiCoin-Qt help message to get a list with possible HiCoin command-line options.</source>
+        <translation>Muhtemel HiCoin komut satırı seçeneklerinin bir listesini getirmek için HiCoin-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1574,13 +1574,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>FriendshipCoin2 - Debug window</source>
-        <translation>FriendshipCoin2 - Hata ayıklama penceresi</translation>
+        <source>HiCoin - Debug window</source>
+        <translation>HiCoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FriendshipCoin2 Core</source>
-        <translation>FriendshipCoin2 Core</translation>
+        <source>HiCoin Core</source>
+        <translation>HiCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1589,8 +1589,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FriendshipCoin2 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>FriendshipCoin2 hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the HiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>HiCoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1599,8 +1599,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FriendshipCoin2 RPC console.</source>
-        <translation>FriendshipCoin2 RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the HiCoin RPC console.</source>
+        <translation>HiCoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1673,8 +1673,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FSC2</source>
-        <translation>123.456 FSC2 {0.00 ?}</translation>
+        <source>0.00 HICOIN</source>
+        <translation>123.456 HICOIN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1743,8 +1743,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FSC2</source>
-        <translation>123.456 FSC2</translation>
+        <source>123.456 HICOIN</source>
+        <translation>123.456 HICOIN</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1758,8 +1758,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Bir FriendshipCoin2 adresi gir (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Bir HiCoin adresi gir (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1858,8 +1858,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FriendshipCoin2 address</source>
-        <translation>UYARI: Geçersiz FriendshipCoin2 adresi</translation>
+        <source>WARNING: Invalid HiCoin address</source>
+        <translation>UYARI: Geçersiz HiCoin adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1932,8 +1932,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Bir FriendshipCoin2 adresi girin (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Bir HiCoin adresi girin (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
 </context>
 <context>
@@ -1993,8 +1993,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FriendshipCoin2 address</source>
-        <translation>Bu FriendshipCoin2 adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this HiCoin address</source>
+        <translation>Bu HiCoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FriendshipCoin2 address</source>
-        <translation>Mesajın, belirtilen FriendshipCoin2 adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified HiCoin address</source>
+        <translation>Mesajın, belirtilen HiCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2036,8 +2036,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Bir FriendshipCoin2 adresi girin (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Bir HiCoin adresi girin (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2046,8 +2046,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FriendshipCoin2 signature</source>
-        <translation>FriendshipCoin2 imzası gir</translation>
+        <source>Enter HiCoin signature</source>
+        <translation>HiCoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2617,8 +2617,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FriendshipCoin2 version</source>
-        <translation>FriendshipCoin2 versiyonu</translation>
+        <source>HiCoin version</source>
+        <translation>HiCoin versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2802,8 +2802,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FriendshipCoin2 will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, FriendshipCoin2 düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong HiCoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, HiCoin düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,7 +2998,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
@@ -3009,7 +3009,7 @@ rpcpassword=%s
 Kullanıcı adı ve parola aynı OLMAMALIDIR.
 Dosya mevcut değilse, dosyayı sadece-kullanıcı-okuyabilir dosya izniyle yaratınız.
 alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildirilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Uyarısı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;HiCoin Uyarısı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,12 +3134,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FriendshipCoin2 is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  HiCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>FriendshipCoin2</source>
+        <source>HiCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3174,12 +3174,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FriendshipCoin2</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of HiCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FriendshipCoin2 to complete</source>
+        <source>Wallet needed to be rewritten: restart HiCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3249,7 +3249,7 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FriendshipCoin2 is probably already running.</source>
+        <source>Unable to bind to %s on this computer. HiCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

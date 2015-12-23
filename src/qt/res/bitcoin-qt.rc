@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "FriendshipCoin2"
-            VALUE "FileDescription",    "FriendshipCoin2-Qt (OSS GUI client for FriendshipCoin2)"
+            VALUE "CompanyName",        "HiCoin"
+            VALUE "FileDescription",    "HiCoin-Qt (OSS GUI client for HiCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "FriendshipCoin2-Qt"
-            VALUE "LegalCopyright",     "Copyright © 2009-2014 The Bitcoin developers, © 2014 The FriendshipCoin2 developers, © 2011-2014 The PeerCoin developers, © 2012-2014 The NovaCoin developers."
+            VALUE "InternalName",       "HiCoin-Qt"
+            VALUE "LegalCopyright",     "Copyright © 2009-2014 The Bitcoin developers, © 2014 The HiCoin developers, © 2011-2014 The PeerCoin developers, © 2012-2014 The NovaCoin developers."
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "FriendshipCoin2-Qt.exe"
-            VALUE "ProductName",        "FriendshipCoin2-Qt"
+            VALUE "OriginalFilename",   "HiCoin-Qt.exe"
+            VALUE "ProductName",        "HiCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

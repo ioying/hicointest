@@ -3,24 +3,24 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FriendshipCoin2</source>
-        <translation>Au sujet de FriendshipCoin2</translation>
+        <source>About HiCoin</source>
+        <translation>Au sujet de HiCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FriendshipCoin2&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;FriendshipCoin2&lt;/b&gt;</translation>
+        <source>&lt;b&gt;HiCoin&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;HiCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2011-2014 The PeerCoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FriendshipCoin2 developers</source>
+Copyright © 2014 The HiCoin developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2011-2014 Les développeurs PeerCoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs FriendshipCoin2</translation>
+Copyright © 2014 Les développeurs HiCoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -67,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FriendshipCoin2 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your HiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FriendshipCoin2 address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse FriendshipCoin2</translation>
+        <source>Sign a message to prove you own a HiCoin address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse HiCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -97,8 +97,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FriendshipCoin2 address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse FriendshipCoin2 spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified HiCoin address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse HiCoin spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -239,7 +239,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos FriendshipCoin2s&lt;/b&gt;!</translation>
+        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos HiCoins&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -265,8 +265,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>FriendshipCoin2 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application FriendshipCoin2 va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>HiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application HiCoin va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -379,8 +379,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about FriendshipCoin2</source>
-        <translation>Afficher des informations au sujet de FriendshipCoin2</translation>
+        <source>Show information about HiCoin</source>
+        <translation>Afficher des informations au sujet de HiCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a FriendshipCoin2 address</source>
-        <translation>Envoyer des monnaies vers une adresse FriendshipCoin2</translation>
+        <source>Send coins to a HiCoin address</source>
+        <translation>Envoyer des monnaies vers une adresse HiCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for FriendshipCoin2</source>
-        <translation>Modification des options de configuration de FriendshipCoin2</translation>
+        <source>Modify configuration options for HiCoin</source>
+        <translation>Modification des options de configuration de HiCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -474,8 +474,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -484,8 +484,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About FriendshipCoin2</source>
-        <translation>&amp;Au sujet de FriendshipCoin2</translation>
+        <source>&amp;About HiCoin</source>
+        <translation>&amp;Au sujet de HiCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -541,13 +541,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FriendshipCoin2 client</source>
-        <translation>Client FriendshipCoin2</translation>
+        <source>HiCoin client</source>
+        <translation>Client HiCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to FriendshipCoin2 network</source>
-        <translation><numerusform>%n connexion active au réseau FriendshipCoin2</numerusform><numerusform>%n connexions actives au réseau FriendshipCoin2</numerusform></translation>
+        <source>%n active connection(s) to HiCoin network</source>
+        <translation><numerusform>%n connexion active au réseau HiCoin</numerusform><numerusform>%n connexions actives au réseau HiCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -661,8 +661,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FriendshipCoin2 address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille FriendshipCoin2 n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid HiCoin address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille HiCoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -721,8 +721,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FriendshipCoin2 can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application FriendshipCoin2 ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
+        <source>A fatal error occurred. HiCoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application HiCoin ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1055,8 +1055,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FriendshipCoin2 address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse FriendshipCoin2 valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid HiCoin address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse HiCoin valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FriendshipCoin2-Qt</source>
-        <translation>FriendshipCoin2-Qt</translation>
+        <source>HiCoin-Qt</source>
+        <translation>HiCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FriendshipCoin2 after logging in to the system.</source>
-        <translation>Démarrage automatique du client FriendshipCoin2 lors de la connexion au système</translation>
+        <source>Automatically start HiCoin after logging in to the system.</source>
+        <translation>Démarrage automatique du client HiCoin lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FriendshipCoin2 on system login</source>
-        <translation>&amp;Démarrage du client FriendshipCoin2 à la connexion au système</translation>
+        <source>&amp;Start HiCoin on system login</source>
+        <translation>&amp;Démarrage du client HiCoin à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1172,8 +1172,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FriendshipCoin2 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquemwnr le port client de FriendshipCoin2 sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the HiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquemwnr le port client de HiCoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1182,8 +1182,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FriendshipCoin2 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau FriendshipCoin2 à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the HiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau HiCoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1257,8 +1257,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application FriendshipCoin2</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting HiCoin.</source>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application HiCoin</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1272,8 +1272,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FriendshipCoin2 addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses FriendshipCoin2 au sein de la liste de transactions</translation>
+        <source>Whether to show HiCoin addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses HiCoin au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1319,8 +1319,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FriendshipCoin2.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client FriendshipCoin2</translation>
+        <source>This setting will take effect after restarting HiCoin.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client HiCoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1338,8 +1338,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FriendshipCoin2 network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau FriendshipCoin2 mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the HiCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau HiCoin mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1554,8 +1554,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FriendshipCoin2-Qt help message to get a list with possible FriendshipCoin2 command-line options.</source>
-        <translation>Afficher le message d&apos;aide FriendshipCoin2-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande FriendshipCoin2</translation>
+        <source>Show the HiCoin-Qt help message to get a list with possible HiCoin command-line options.</source>
+        <translation>Afficher le message d&apos;aide HiCoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande HiCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1574,13 +1574,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>FriendshipCoin2 - Debug window</source>
-        <translation>FriendshipCoin2 - Fenêtre de déboggage</translation>
+        <source>HiCoin - Debug window</source>
+        <translation>HiCoin - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FriendshipCoin2 Core</source>
-        <translation>FriendshipCoin2 Core</translation>
+        <source>HiCoin Core</source>
+        <translation>HiCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1589,8 +1589,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FriendshipCoin2 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug FriendshipCoin2 au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the HiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug HiCoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1599,8 +1599,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FriendshipCoin2 RPC console.</source>
-        <translation>Bienvenue sur la console RPC de FriendshipCoin2.</translation>
+        <source>Welcome to the HiCoin RPC console.</source>
+        <translation>Bienvenue sur la console RPC de HiCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1673,8 +1673,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FSC2</source>
-        <translation>123.456 FSC2 {0.00 ?}</translation>
+        <source>0.00 HICOIN</source>
+        <translation>123.456 HICOIN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1743,8 +1743,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FSC2</source>
-        <translation>123.456 FSC2</translation>
+        <source>123.456 HICOIN</source>
+        <translation>123.456 HICOIN</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1758,8 +1758,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Entrer une adresse FriendshipCoin2 (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Entrer une adresse HiCoin (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1858,8 +1858,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FriendshipCoin2 address</source>
-        <translation>AVERTISSEMENT: Adresse FriendshipCoin2 Invalide</translation>
+        <source>WARNING: Invalid HiCoin address</source>
+        <translation>AVERTISSEMENT: Adresse HiCoin Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1869,7 +1869,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse FriendshipCoin2 Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse HiCoin Invalide</translation>
     </message>
 </context>
 <context>
@@ -1932,8 +1932,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Entrer une adresse FriendshipCoin2 (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Entrer une adresse HiCoin (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
 </context>
 <context>
@@ -1957,7 +1957,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Entrer une adresse FriendshipCoin2 (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <translation>Entrer une adresse HiCoin (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1993,8 +1993,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FriendshipCoin2 address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse FriendshipCoin2</translation>
+        <source>Sign the message to prove you own this HiCoin address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse HiCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FriendshipCoin2 address</source>
-        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse FriendshipCoin2 spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified HiCoin address</source>
+        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse HiCoin spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2036,8 +2036,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FriendshipCoin2 address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Entrer une adresse FriendshipCoin2 (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <translation>Entrer une adresse HiCoin (par ex: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2046,8 +2046,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FriendshipCoin2 signature</source>
-        <translation>Entrer une signature FriendshipCoin2</translation>
+        <source>Enter HiCoin signature</source>
+        <translation>Entrer une signature HiCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2617,8 +2617,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FriendshipCoin2 version</source>
-        <translation>Version FriendshipCoin2</translation>
+        <source>HiCoin version</source>
+        <translation>Version HiCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2802,8 +2802,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FriendshipCoin2 will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. FriendshipCoin2 ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong HiCoin will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. HiCoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,7 +2998,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FriendshipCoin2 Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;HiCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
@@ -3009,7 +3009,7 @@ rpcpassword=%s
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte FriendshipCoin2&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte HiCoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte FriendshipCoin2&quot; a
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FriendshipCoin2 is probably already running.</source>
-        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application FriendshipCoin2 est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  HiCoin is probably already running.</source>
+        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application HiCoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>FriendshipCoin2</source>
-        <translation>FriendshipCoin2</translation>
+        <source>HiCoin</source>
+        <translation>HiCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte FriendshipCoin2&quot; a
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FriendshipCoin2</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application FriendshipCoin2</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of HiCoin</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application HiCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FriendshipCoin2 to complete</source>
-        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application FriendshipCoin2</translation>
+        <source>Wallet needed to be rewritten: restart HiCoin to complete</source>
+        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application HiCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte FriendshipCoin2&quot; a
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FriendshipCoin2 is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application FriendshipCoin2 est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. HiCoin is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application HiCoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -1,4 +1,4 @@
-FriendshipCoin2-qt: Qt5 GUI for FriendshipCoin2
+HiCoin-qt: Qt5 GUI for HiCoin
 ===============================
 
 Build instructions
@@ -24,7 +24,7 @@ then execute the following:
     qmake
     make
 
-Alternatively, install Qt Creator and open the `fsc2-qt.pro` file.
+Alternatively, install Qt Creator and open the `hicoin-qt.pro` file.
 
 An executable named `friendshipcoin2-qt` will be built.
 
@@ -117,9 +117,9 @@ flag to qmake to control this:
 Berkely DB version warning
 ==========================
 
-A warning for people using the *static binary* version of FriendshipCoin2 on a Linux/UNIX-ish system (tl;dr: **Berkely DB databases are not forward compatible**).
+A warning for people using the *static binary* version of HiCoin on a Linux/UNIX-ish system (tl;dr: **Berkely DB databases are not forward compatible**).
 
-The static binary version of FriendshipCoin2 is linked against libdb 5.0 (see also `this Debian issue`_).
+The static binary version of HiCoin is linked against libdb 5.0 (see also `this Debian issue`_).
 
 Now the nasty thing is that databases from 5.X are not compatible with 4.X.
 

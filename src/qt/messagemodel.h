@@ -67,7 +67,7 @@ struct MessageTableEntry
     }
 };
 
-/** Interface to FriendshipCoin2 Secure Messaging from Qt view code. */
+/** Interface to HiCoin Secure Messaging from Qt view code. */
 class MessageModel : public QAbstractTableModel
 {
     Q_OBJECT

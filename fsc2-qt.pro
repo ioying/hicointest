@@ -1,7 +1,7 @@
 TEMPLATE = app
-TARGET = FriendshipCoin2-Qt
-macx:TARGET = "FriendshipCoin2-Qt"
-windows:TARGET = "FriendshipCoin2-Qt"
+TARGET = HiCoin-Qt
+macx:TARGET = "HiCoin-Qt"
+windows:TARGET = "HiCoin-Qt"
 VERSION = 1.0.1.0
 INCLUDEPATH += src src/json src/qt src/qt/plugins/mrichtexteditor
 QT += core gui network
