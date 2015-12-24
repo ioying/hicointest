@@ -26,7 +26,7 @@ class CRequestTracker;
 class CNode;
 
 static const int LAST_POW_BLOCK = 100; // POW 1,000 Coins * 100 Block = 100,000 Coins
-static const int LAST_PREMINE_BLOCK = 50; // Premine 20,000,000 Coins * 50 Blocks = 10,000,000,000 Coins
+static const int LAST_PREMINE_BLOCK = 50; // Premine 200,000,000 Coins * 50 Blocks = 10,000,000,000 Coins
 
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;

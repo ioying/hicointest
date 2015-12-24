@@ -967,7 +967,7 @@ int64_t GetProofOfWorkReward(int nHeight, int64_t nFees)
       nSubsidy = 1000 * COIN;
     }
     if (nHeight <= LAST_PREMINE_BLOCK) { //  premine
-      nSubsidy = 20000000 * COIN;
+      nSubsidy = 200000000 * COIN;
     }
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%f\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
