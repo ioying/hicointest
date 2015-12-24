@@ -25,7 +25,7 @@ class CInv;
 class CRequestTracker;
 class CNode;
 
-static const int LAST_POW_BLOCK = 100; // POW 1,000 Coins * 100 Block = 100,000 Coins
+static const int LAST_POW_BLOCK = 250; // POW 1,000 Coins * 200 Block = 200,000 Coins
 static const int LAST_PREMINE_BLOCK = 50; // Premine 200,000,000 Coins * 50 Blocks = 10,000,000,000 Coins
 
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
@@ -43,7 +43,7 @@ inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MO
 static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 
 
-static const uint256 hashGenesisBlock("0x");
+static const uint256 hashGenesisBlock("0x00000223c2847a425b85f322516d4d5f49320cf088a0e992886b477a8adea5a9");
 static const uint256 hashGenesisBlockTestNet("0x0000022424627362da7b5a8583dafe90562a1994d910e14405e4ffae7a7dacc1");
 
 

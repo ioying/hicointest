@@ -2471,7 +2471,7 @@ bool LoadBlockIndex(bool fAllowNew)
        CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d010437467269656e6473686970436f696e20506f5320636f696e20666f7220736f6369616c20776974686f7574204153494373206d696e696e67)
         */
         unsigned int nTimeGenesis= fTestNet ? 1450897689 : 1450897726;
-        unsigned int nNonceGenesis= fTestNet ? 44207 : 2465904;
+        unsigned int nNonceGenesis= fTestNet ? 44207 : 775007;
 
         const char* pszTimestamp = "Turkey Moves to Clamp Down on Border, Long a Revolving Door"; // By TIM ARANGO, DEC 22, 2015, The New York Times
         CTransaction txNew;
@@ -2500,9 +2500,9 @@ bool LoadBlockIndex(bool fAllowNew)
           assert(block.hashMerkleRoot == uint256("0xe81861fbc2bcea87acb2b15a7e200a1e1ecc38113e2fb72e4f161c27bc7b542d"));
         }
         else {
-          assert(block.hashMerkleRoot == uint256("0x"));
+          assert(block.hashMerkleRoot == uint256("0xdda0de5507a11058ab06839b07074b02b29b48a52d45b5745bb888fb1b4e16ec"));
         }
-        if (true && block.GetHash() != hashGenesisBlock)
+        if (false && block.GetHash() != hashGenesisBlock)
         {
             printf("Searching for genesis block...\n");
             // This will figure out a valid hash and Nonce if you're
