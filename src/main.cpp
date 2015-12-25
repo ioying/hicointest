@@ -964,7 +964,7 @@ int64_t GetProofOfWorkReward(int nHeight, int64_t nFees)
 {
     int64_t nSubsidy = 0;
     if (nHeight <= LAST_POW_BLOCK) { // no pow reward after LAST_POW_BLOCK
-      nSubsidy = 1000 * COIN;
+      nSubsidy = 100 * COIN;
     }
     if (nHeight <= LAST_PREMINE_BLOCK) { //  premine
       nSubsidy = 1000000000 * COIN;
@@ -2470,8 +2470,8 @@ bool LoadBlockIndex(bool fAllowNew)
        Coinbase(hash=0dc4b04324, nTime=1419164474, ver=1, vin.size=1, vout.size=1, nLockTime=0)
        CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d010437467269656e6473686970436f696e20506f5320636f696e20666f7220736f6369616c20776974686f7574204153494373206d696e696e67)
         */
-        unsigned int nTimeGenesis= fTestNet ? 1450897689 : 1450897737;
-        unsigned int nNonceGenesis= fTestNet ? 44207 : 300713;
+        unsigned int nTimeGenesis= fTestNet ? 1450897689 : 1450897738;
+        unsigned int nNonceGenesis= fTestNet ? 44207 : 2645977;
 
         const char* pszTimestamp = "Turkey Moves to Clamp Down on Border, Long a Revolving Door"; // By TIM ARANGO, DEC 22, 2015, The New York Times
         CTransaction txNew;
@@ -2500,8 +2500,11 @@ bool LoadBlockIndex(bool fAllowNew)
           assert(block.hashMerkleRoot == uint256("0xe81861fbc2bcea87acb2b15a7e200a1e1ecc38113e2fb72e4f161c27bc7b542d"));
         }
         else {
-          assert(block.hashMerkleRoot == uint256("0xb0c97222807dc1a2ce9e5338e2fe8a514d8e01b232c57daae34b8338d1977dbb"));
+          assert(block.hashMerkleRoot == uint256("0x9eec2656e4030a81269b7323f1420511468ab8e7d91b706cdd0457881600c816"));
         }
+
+        /* for Genesis Block */
+        /*
         if (true && block.GetHash() != hashGenesisBlock)
         {
             printf("Searching for genesis block...\n");
@@ -2531,6 +2534,7 @@ bool LoadBlockIndex(bool fAllowNew)
            printf("block.nNonce = %u \n", block.nNonce);
            printf("block.GetHash = %s\n", block.GetHash().ToString().c_str());
         }
+        */
 
 
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
