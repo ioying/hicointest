@@ -1758,8 +1758,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Syötä HiCoin-osoite (esim. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Syötä HiCoin-osoite (esim. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1902,8 +1902,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to send the payment to  (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Osoite, johon maksu lähetetään (esim. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1932,8 +1932,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Syötä HiCoin-osoite (esim. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Syötä HiCoin-osoite (esim. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
 </context>
 <context>
@@ -1956,8 +1956,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to sign the message with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2020,8 +2020,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt) </translation>
+        <source>The address the message was signed with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8) </translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2036,8 +2036,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Syötä HiCoin-osoite (esim. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Syötä HiCoin-osoite (esim. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="-2"/>

@@ -1740,7 +1740,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1884,7 +1884,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <source>The address to send the payment to  (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1914,7 +1914,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1938,7 +1938,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <source>The address to sign the message with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2002,7 +2002,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <source>The address the message was signed with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2018,7 +2018,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
         <translation type="unfinished"/>
     </message>
     <message>

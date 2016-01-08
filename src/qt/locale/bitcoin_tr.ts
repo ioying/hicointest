@@ -1758,8 +1758,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Bir HiCoin adresi gir (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Bir HiCoin adresi gir (örn: HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1902,8 +1902,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Ödemenin gönderileceği adres (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to send the payment to  (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Ödemenin gönderileceği adres (örn: HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1932,8 +1932,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Bir HiCoin adresi girin (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Bir HiCoin adresi girin (örn: HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
 </context>
 <context>
@@ -1956,8 +1956,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Mesajın imzalanacağı adres (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to sign the message with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Mesajın imzalanacağı adres (örn: HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Mesajın imzalandığı adres (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address the message was signed with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Mesajın imzalandığı adres (örn: HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2036,8 +2036,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Bir HiCoin adresi girin (örn: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Bir HiCoin adresi girin (örn: HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="-2"/>

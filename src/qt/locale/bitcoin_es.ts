@@ -1761,8 +1761,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introduce una dirección HiCoin (p.ej. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Introduce una dirección HiCoin (p.ej. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1905,8 +1905,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>La dirección a la que se quiere enviar el pago (p.ej. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to send the payment to  (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>La dirección a la que se quiere enviar el pago (p.ej. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1935,8 +1935,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introduce una dirección HiCoin (p.ej. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Introduce una dirección HiCoin (p.ej. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
 </context>
 <context>
@@ -1959,8 +1959,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>La dirección a firmar con un mensaje (p.ej. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to sign the message with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>La dirección a firmar con un mensaje (p.ej. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2023,8 +2023,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>La dirección firmada con un mensaje (p.ej. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address the message was signed with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>La dirección firmada con un mensaje (p.ej. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2039,8 +2039,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introduce una dirección HiCoin (p.ej FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Introduce una dirección HiCoin (p.ej HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="-2"/>

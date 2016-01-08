@@ -1749,8 +1749,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introdueix una adreça HiCoin (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Introdueix una adreça HiCoin (p.ex. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>L&apos;adreça per a enviar el pagament (per exemple: FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to send the payment to  (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>L&apos;adreça per a enviar el pagament (per exemple: HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1923,8 +1923,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introdueix una adreça HiCoin (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Introdueix una adreça HiCoin (p.ex. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
 </context>
 <context>
@@ -1947,8 +1947,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>L&apos;adreça per a signar el missatge (per exemple FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address to sign the message with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>L&apos;adreça per a signar el missatge (per exemple HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2011,8 +2011,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>La direcció que va ser signada amb un missatge (per exemple FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>The address the message was signed with (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>La direcció que va ser signada amb un missatge (per exemple HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2027,8 +2027,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</source>
-        <translation>Introdueix una adreça HiCoin (p.ex. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)</translation>
+        <source>Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</source>
+        <translation>Introdueix una adreça HiCoin (p.ex. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)</translation>
     </message>
     <message>
         <location line="-2"/>
