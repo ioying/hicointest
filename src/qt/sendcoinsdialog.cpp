@@ -37,7 +37,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a HiCoin address (e.g. FfCDhekqN2ngKCfKLyxQodtAUfCQVPqFFt)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a HiCoin address (e.g. HPHWwxzA9gfTKR4CU1Dfgp5W8C8QSviVk8)"));
 #endif
 
     addEntry();
